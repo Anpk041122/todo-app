@@ -1,0 +1,26 @@
+.form {
+    border-radius: 5px;
+    border: 10px;
+    width: 400px;
+    height:auto;
+    position: fixed;
+    top: 200px;
+    left: 590px;
+    padding: 20px;
+    background-color: rgb(175, 204, 248);
+}
+
+.bg {
+    position: absolute;
+    z-index: 2;
+    height: 700px;
+    width: 1518px;
+    background: rgba(125, 139, 159, 0.8) ;
+}
+
+.header-form-mn {
+    font-size: 25px;
+    font-weight: bold;
+    color:blue;
+    text-align: center;
+}
